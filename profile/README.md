@@ -1,7 +1,7 @@
 
 <a>
    <p align="center">
-      <img width="60%" src=".images/microros_logo.png">
+      <img width="100%" src=".images/microros_logo.png">
    </p>
 </a>
 
