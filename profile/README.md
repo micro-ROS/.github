@@ -4,8 +4,9 @@
       <img width="100%" src=".images/microros_logo.png">
    </p>
 </a>
-
-_Bridging the gap between resource-constrained MCUs and robotic applications that are based on the ROS 2._
+<p align="center">
+   <i>Bridging the gap between resource-constrained MCUs and robotic applications that are based on the ROS 2.</i>
+</p>
 
 # Get in touch!
 
