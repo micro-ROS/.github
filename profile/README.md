@@ -10,7 +10,7 @@
 
 # Get in touch!
 
-Learn more about what we're doing in open source at [micro.ros.org](micro.ros.org) and NEWS section.
+Learn more about what we're doing in open source at [micro.ros.org](https://micro.ros.org) and [NEWS](https://micro.ros.org/blog/2021/09/08/MicrosoftAzureRTOS/) section.
 
 [Twitter](https://twitter.com/EProsima) [Youtube](https://www.youtube.com/channel/UCmySMF-SJOefpx47wJkRI5Q) [LinkedIn](https://www.linkedin.com/company/eprosima)
 
