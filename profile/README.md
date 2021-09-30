@@ -5,7 +5,7 @@
    </p>
 </a>
 
-Bridging the gap between resource-constrained microcontrollers and larger processors in robotic applications that are based on the Robot Operating Systems.
+_Bridging the gap between resource-constrained MCUs and robotic applications that are based on the ROS 2._
 
 # Get in touch!
 
