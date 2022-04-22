@@ -1,9 +1,6 @@
 
-<a>
-   <p align="center">
-      <img width="100%" src=".images/microros_logo.png">
-   </p>
-</a>
+![banner](.images/banner-dark-theme.png#gh-dark-mode-only)
+![banner](.images/banner-light-theme.png#gh-light-mode-only)
 
 [![Foxy](https://img.shields.io/badge/ROS%202-Foxy-green?style=flat&logo=ros)](https://github.com/micro-ROS/micro_ros_setup/tree/foxy)
 [![Galactic](https://img.shields.io/badge/ROS%202-Galactic-green?style=flat&logo=ros)](https://github.com/micro-ROS/micro_ros_setup/tree/galactic)
