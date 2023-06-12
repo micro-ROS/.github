@@ -5,6 +5,7 @@
 [![Foxy](https://img.shields.io/badge/ROS%202-Foxy-green?style=flat&logo=ros)](https://github.com/micro-ROS/micro_ros_setup/tree/foxy)
 [![Galactic](https://img.shields.io/badge/ROS%202-Galactic-green?style=flat&logo=ros)](https://github.com/micro-ROS/micro_ros_setup/tree/galactic)
 [![Humble](https://img.shields.io/badge/ROS%202-Humble-green?style=flat&logo=ros)](https://github.com/micro-ROS/micro_ros_setup/tree/humble)
+[![Iron](https://img.shields.io/badge/ROS%202-Iron-green?style=flat&logo=ros)](https://github.com/micro-ROS/micro_ros_setup/tree/iron)
 [![Rolling](https://img.shields.io/badge/ROS%202-Rolling-green?style=flat&logo=ros)](https://github.com/micro-ROS/micro_ros_setup/tree/rolling)
 
 [![GitHub](https://img.shields.io/github/license/micro-ros/micro_ros_setup)](https://github.com/micro-ROS/micro_ros_setup/blob/galactic/LICENSE)
